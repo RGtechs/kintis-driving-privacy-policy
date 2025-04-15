@@ -1,0 +1,139 @@
+Privacy Policy
+Last updated: March 29, 2025
+
+This Privacy Policy explains how we collect, use, and disclose your information when you use our app. It also outlines your rights regarding your data and how we protect your privacy.
+
+By using the app, you agree to the collection and use of information as described in this policy.
+
+---
+
+Key Definitions
+
+- Application: Driving School Kintis Panagiotis
+- Company: Driving School Kintis Panagiotis (referred to as "we", "us", or "our")
+- Device: Any device used to access the app (e.g., smartphone, tablet)
+- Personal Data: Information related to an identified or identifiable individual
+- Service: The mobile app experience
+- Service Providers: Third-party companies or individuals who help deliver the app experience
+- Usage Data: Data collected automatically about app usage and performance
+- You: The individual using the app
+
+---
+
+Data We Collect
+
+Personal Data
+We may collect limited personal data, such as:
+- Usage Data
+
+Usage Data
+Collected automatically during your use of the app, including:
+- Device type and OS version
+- IP address
+- Unique device identifiers
+- Browser type and version
+- Pages visited, time spent on pages
+- Mobile-specific details (e.g., mobile network, Internet browser, diagnostics)
+
+---
+
+Advertising and Tracking
+
+We use third-party services like Unity Ads for in-app advertising. These services may collect:
+- Device details
+- IP address (for approximate location)
+- Advertising ID (IDFA or GAID)
+- Interaction with ads
+
+Why This Data Is Used:
+- To serve personalized or contextual ads
+- To measure ad performance
+- To prevent fraud or misuse
+
+You can manage ad tracking via device settings:
+- Android: Settings → Google → Ads
+- iOS: Settings → Privacy & Security → Tracking
+
+If tracking is used, we follow Apple’s App Tracking Transparency (ATT) framework. We will ask for your explicit permission before collecting any data used for tracking across apps or websites.
+
+---
+
+How We Use Your Data
+
+We use collected data for:
+- Delivering and maintaining the app
+- Managing your user account (if applicable)
+- Sending service updates or notifications
+- Responding to your inquiries or support requests
+- Providing offers or promotions (only with consent)
+- Analyzing usage trends and improving the app
+- Legal and business compliance
+
+---
+
+Data Sharing
+
+We may share your data in the following cases:
+- With service providers helping us operate or improve the app
+- With affiliates under common control
+- For legal or regulatory reasons
+- During business transfers, such as a sale or merger
+- With your consent
+
+We do not sell your personal data.
+
+---
+
+Data Retention
+
+We retain your personal data only as long as necessary:
+- To fulfill the purposes in this policy
+- To comply with legal obligations
+- To resolve disputes and enforce agreements
+
+---
+
+International Transfers
+
+Your data may be processed in countries with different data protection laws than your own. We take reasonable steps to ensure your data is treated securely and in accordance with this policy.
+
+---
+
+Your Rights
+
+You can:
+- Request access to or deletion of your personal data
+- Update your information via in-app settings (if available)
+- Contact us for assistance
+
+Note: We may retain some data if required by law.
+
+---
+
+Children's Privacy
+
+Our app is not intended for children under 13. We do not knowingly collect data from children. If we learn that we have collected data from a child without parental consent, we will delete it immediately.
+
+---
+
+External Links
+
+Our app may link to third-party websites. We are not responsible for the privacy practices or content of those sites. Always review their policies.
+
+---
+
+Changes to This Policy
+
+We may update this Privacy Policy periodically. We will notify you of changes via:
+- App update notes
+- In-app notifications
+- Email (if provided)
+
+Continued use of the app after changes means you accept the updated policy.
+
+---
+
+Contact Us
+
+If you have questions or concerns about your privacy, contact us at:
+Email: angelromp06@gmail.com
